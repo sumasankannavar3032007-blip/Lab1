@@ -1,2 +1,2 @@
-"This is my very first Git experiment."
-my name is suma
+
+"my college name is jgi"
